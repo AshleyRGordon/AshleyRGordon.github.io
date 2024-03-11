@@ -155,13 +155,11 @@ img {
     max-width:50rem;
 
 }
-
-/* Footer */
 footer {
 	padding-bottom:1rem;
 	padding-left:1rem;
 	padding-right:1rem;
 	padding-top:1rem;
-	border-top:2rem solid #333;
+	border-top:2rem solid#333;
 }
 
