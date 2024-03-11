@@ -6,7 +6,7 @@ html {
     margin: 0;
     padding: 0;
     font-size: 16px;
-    background-color: #FFFFFF;
+    background-color: #ffffff;
 }
 
 body {
@@ -28,14 +28,14 @@ header {
 h1 {
     font-size: 6rem;
     font-weight:100;
-    color: #333;
+    color:#333;
     font-family: Lato, sans-serif;
     text-shadow:2px 2px 3px #333;      
     margin:0;
 }
 
-h1 span {
-    color:#8C2B3F;
+h1 span{
+color:#8C2B3F;
 }
 
 h2 {
