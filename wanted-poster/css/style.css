@@ -157,5 +157,11 @@ img {
 }
 
 /* Footer */
-
+footer {
+	padding-bottom:1rem;
+	padding-left:1rem;
+	padding-right:1rem;
+	padding-top:1rem;
+	border-top:2rem solid #333;
+}
 
